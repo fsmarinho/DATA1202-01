@@ -6,9 +6,9 @@ This project analysis the youtube dataset provided which contains about 4k recor
 
 # Structure of this folder:
 
-config/
-    db_config.yaml
-helper_functions.py
+config/\
+&nbsp;&nbsp;&nbsp;&nbsp;db_config.yaml\
+helper_functions.py\
 main.py
 
 # db_config.yaml
